@@ -1,0 +1,21 @@
+c:\users\johnny\documents\visual studio 2015\Projects\notepad\notepad\bin\Debug\notepad.exe.config
+c:\users\johnny\documents\visual studio 2015\Projects\notepad\notepad\obj\Debug\notepad.csprojResolveAssemblyReference.cache
+c:\users\johnny\documents\visual studio 2015\Projects\notepad\notepad\obj\Debug\notepad.Form1.resources
+c:\users\johnny\documents\visual studio 2015\Projects\notepad\notepad\obj\Debug\notepad.Properties.Resources.resources
+c:\users\johnny\documents\visual studio 2015\Projects\notepad\notepad\obj\Debug\notepad.csproj.GenerateResource.Cache
+c:\users\johnny\documents\visual studio 2015\Projects\notepad\notepad\bin\Debug\notepad.exe
+c:\users\johnny\documents\visual studio 2015\Projects\notepad\notepad\bin\Debug\notepad.pdb
+c:\users\johnny\documents\visual studio 2015\Projects\notepad\notepad\obj\Debug\notepad.formFindReplace.resources
+c:\users\johnny\documents\visual studio 2015\Projects\notepad\notepad\obj\Debug\notepad.exe
+c:\users\johnny\documents\visual studio 2015\Projects\notepad\notepad\obj\Debug\notepad.pdb
+D:\c#\notepad\notepad\bin\Debug\notepad.exe.config
+D:\c#\notepad\notepad\obj\Debug\notepad.exe
+D:\c#\notepad\notepad\obj\Debug\notepad.pdb
+D:\c#\notepad\notepad\bin\Debug\notepad.exe
+D:\c#\notepad\notepad\bin\Debug\notepad.pdb
+D:\c#\notepad\notepad\obj\Debug\notepad.csprojResolveAssemblyReference.cache
+D:\c#\notepad\notepad\obj\Debug\notepad.formAbout.resources
+D:\c#\notepad\notepad\obj\Debug\notepad.Form1.resources
+D:\c#\notepad\notepad\obj\Debug\notepad.formFindReplace.resources
+D:\c#\notepad\notepad\obj\Debug\notepad.Properties.Resources.resources
+D:\c#\notepad\notepad\obj\Debug\notepad.csproj.GenerateResource.Cache
